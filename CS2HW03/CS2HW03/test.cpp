@@ -73,7 +73,7 @@ int main() {
 //10.4
 void sort(string &s) {
 	for (int i = 0; i < s.size(); i++) {
-		for (int j = 0; j = i; j++) {
+		for (int j = 0; j < i; j++) {
 			if (s[j]<s[i]) {
 				char placeHolder = s[j];
 				s[j] = s[i];

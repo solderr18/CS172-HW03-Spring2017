@@ -1,2 +1,6 @@
-﻿  CS2HW03.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW03-Spring2017\CS2HW03\Debug\CS2HW03.exe
+﻿  test.cpp
+c:\users\solderr18\documents\github\cs172-hw03-spring2017\cs2hw03\cs2hw03\myinteger.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\solderr18\documents\github\cs172-hw03-spring2017\cs2hw03\cs2hw03\test.cpp(13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\solderr18\documents\github\cs172-hw03-spring2017\cs2hw03\cs2hw03\test.cpp(75): warning C4018: '<': signed/unsigned mismatch
+  CS2HW03.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW03-Spring2017\CS2HW03\Debug\CS2HW03.exe
   CS2HW03.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW03-Spring2017\CS2HW03\Debug\CS2HW03.pdb (Full PDB)
